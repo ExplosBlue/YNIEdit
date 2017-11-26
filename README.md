@@ -1,6 +1,8 @@
 # YNIEdit
 A Yoshi's New Island editor - sort of
 
+Created in python3 and pyqt5
+
 ## Useage
 Place the `param` and `stage` folders from your Yoshi's New Island romfs into the editor directory. 
 
